@@ -1,2 +1,2 @@
-# odin-recipies
+# odin-recipes
 tOP Project:Recipes 
